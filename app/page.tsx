@@ -380,7 +380,7 @@ export default function HomePage() {
       <footer className={`border-t py-6 text-center text-sm ${muted}`}>
         <div className="mx-auto max-w-7xl px-4">
           <p className="font-semibold text-blue-500">Anoop Gangwar</p>
-          <p>anoopgangwar4@gmail.com</p>
+          <p>gangwaranoop4@gmail.com</p>
           <a href="https://github.com/anoopgangwar" target="_blank" rel="noreferrer" className="mt-1 inline-block text-cyan-300">GitHub</a>
         </div>
       </footer>
